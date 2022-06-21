@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
 
-            @include('auth.partials.logo')
+            {{-- @include('auth.partials.logo') --}}
 
             <div class="card">
                 <div class="card-header">
